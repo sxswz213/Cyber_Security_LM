@@ -1,9 +1,5 @@
 # Cyber_Security_LM
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1555541938&bvid=BV1j142117H6&cid=1579784739&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-<div align="center">
 
-//player.bilibili.com/player.html?isOutside=true&aid=1555541938&bvid=BV1j142117H6&cid=1579784739&p=1
-
+<div align='center'>
+https://private-user-images.githubusercontent.com/115558821/352891287-7db61bb9-65b2-47c6-be4a-36a8896ad2e9.mp4
 </div>
-
-![](//player.bilibili.com/player.html?isOutside=true&aid=1555541938&bvid=BV1j142117H6&cid=1579784739&p=1)
